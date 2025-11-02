@@ -447,7 +447,7 @@ event EmergencyWithdraw(uint256 indexed sprintId, address indexed owner, uint256
 ## 🌐 Live Deployment
 
 ### Live Application
-**URL**: (Deploy to Vercel)
+**URL**: https://stable-sprints-nextjs.vercel.app/
 
 ### GitHub Repository
 **URL**: https://github.com/Raakshass/StableSprints
